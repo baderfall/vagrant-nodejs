@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/www":{"guestpath":"/home/vagrant/www","hostpath":"/Users/melikhov/source/vagrant-nodejs","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/melikhov/source/vagrant-nodejs","disabled":false,"__vagrantfile":true}}}
