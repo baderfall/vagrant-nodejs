@@ -9,7 +9,6 @@ vagrant up
 After install:
 
 ```
+vagrant status
 vagrant ssh
-cd /home/vagrant/www/
-node app.js
 ``` 
