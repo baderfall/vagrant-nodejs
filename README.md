@@ -7,6 +7,6 @@ vagrant up
 
 After install:
 
-1. add project folder to /vagrant-nodejs on host machine
+1. add project folder to ```/vagrant-nodejs``` on host machine
 2. ```vagrant ssh```
-3. go to www folder on guest machine
+3. go to ```/www``` folder on guest machine
